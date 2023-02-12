@@ -1,5 +1,5 @@
 
-# Hi there, I am Anusha Patel <img src="https://camo.githubusercontent.com/b0fa06ee100360ae8811a115c133de7848891e3b/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966" width="70" height="70" />
+# Hi ✌️ I am Anusha Patel <img src="https://camo.githubusercontent.com/b0fa06ee100360ae8811a115c133de7848891e3b/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966" width="70" height="70" />
 
 
 ## About Me:  :alien:
@@ -29,10 +29,11 @@
  <img align="center" title="Python" href="https://www.python.org/" alt="Python" height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
  <img align="center" title="MySQL" href="https://www.mysql.com/" alt="mysql" height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
  <img align="center" title="Tailwind CSS" href="https://tailwindcss.com/" alt="tailwind" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png?20211001194333">
-
-## How to Connect me
+<br>
+ 
+## Connect me
 :pencil:  You can also find me writing at [Gmail](https://www.anushapatel151102@gmail.com) </br>
-:handshake: And making connections on [Linkedin](https://www.linkedin.com/in/aishika-midder-16b76b1a5/)
+:handshake: And making connections on [Linkedin](https://https://www.linkedin.com/in/anusha-p-a85013204/)
           
           
 
